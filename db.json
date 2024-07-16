@@ -1,0 +1,86 @@
+{
+  "allVideos": [
+    {
+      "caption": "Oh My Kadavule - Kadhaippoma ",
+      "imgUrl": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/61/98/08/619808d3-4505-a210-e807-3d7b5d60d7ae/886448214496.jpg/1200x1200bf-60.jpg",
+      "vidUrl": "https://www.youtube.com/embed/DScFlfN9vDk",
+      "id": 2
+    },
+    {
+      "caption": "Thaniye Mizhikal | Guppy",
+      "imgUrl": "https://4.bp.blogspot.com/-CaM3KiFbP30/XLXKU4WKUWI/AAAAAAAABUI/DpzAjNSfki8DI_-E849yTUgBmuH7JRkkwCLcBGAs/s320/B313C321-80A0-4954-811A-AA137A9073DF.jpeg",
+      "vidUrl": "https://www.youtube.com/embed/l0yU-mcCM9I",
+      "id": 3
+    },
+    {
+      "caption": "Mel Mel Video Song | Ustad Hotel",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/6/64/Ustad_Hotel_(2012)_-_Poster.jpg",
+      "vidUrl": "https://www.youtube.com/embed/ChvRqfptNtE",
+      "id": 4
+    },
+    {
+      "caption": "Sajni | Laapataa Ladies ",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202403/kiran-raos-laapataa-ladies-x-review-015244655-1x1.jpg?VersionId=IEo3hOW.Yj.xIx0ovxojdE7ocnu6lHyh",
+      "vidUrl": "https://www.youtube.com/embed/k3g_WjLCsXM",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Tamil Songs",
+      "allVideo": [
+        {
+          "caption": "Oh My Kadavule - Kadhaippoma ",
+          "imgUrl": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/61/98/08/619808d3-4505-a210-e807-3d7b5d60d7ae/886448214496.jpg/1200x1200bf-60.jpg",
+          "vidUrl": "https://www.youtube.com/embed/DScFlfN9vDk",
+          "id": 2
+        }
+      ],
+      "id": 3
+    },
+    {
+      "categoryName": "Malayalam Songs",
+      "allVideo": [
+        {
+          "caption": "Thaniye Mizhikal | Guppy",
+          "imgUrl": "https://4.bp.blogspot.com/-CaM3KiFbP30/XLXKU4WKUWI/AAAAAAAABUI/DpzAjNSfki8DI_-E849yTUgBmuH7JRkkwCLcBGAs/s320/B313C321-80A0-4954-811A-AA137A9073DF.jpeg",
+          "vidUrl": "https://www.youtube.com/embed/l0yU-mcCM9I",
+          "id": 3
+        },
+        {
+          "caption": "Mel Mel Video Song | Ustad Hotel",
+          "imgUrl": "https://upload.wikimedia.org/wikipedia/en/6/64/Ustad_Hotel_(2012)_-_Poster.jpg",
+          "vidUrl": "https://www.youtube.com/embed/ChvRqfptNtE",
+          "id": 4
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "caption": "Mel Mel Video Song | Ustad Hotel",
+      "url": "https://www.youtube.com/embed/ChvRqfptNtE",
+      "timestamp": "11/07/24, 14:37:57",
+      "id": 1
+    },
+    {
+      "caption": "Mel Mel Video Song | Ustad Hotel",
+      "url": "https://www.youtube.com/embed/ChvRqfptNtE",
+      "timestamp": "15/07/24, 14:55:08",
+      "id": 2
+    },
+    {
+      "caption": "Oh My Kadavule - Kadhaippoma ",
+      "url": "https://www.youtube.com/embed/DScFlfN9vDk",
+      "timestamp": "16/07/24, 13:52:38",
+      "id": 3
+    },
+    {
+      "caption": "Oh My Kadavule - Kadhaippoma ",
+      "url": "https://www.youtube.com/embed/DScFlfN9vDk",
+      "timestamp": "16/07/24, 13:52:55",
+      "id": 4
+    }
+  ]
+}
